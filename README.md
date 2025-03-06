@@ -4,8 +4,8 @@ This program is designed to control a stepper motor using a 4-pin driver. It use
 #### Pin Definitions
 ```
 #define in_A_1 2
-#define in_A_2 3
-#define in_B_1 4
+#define in_A_2 4
+#define in_B_1 3
 #define in_B_2 5
 ```
 These define the pins on the microcontroller where the two coils (A and B) of the stepper motor are connected.
