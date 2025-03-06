@@ -1,3 +1,4 @@
+/*
 #######################################################################
 ##                                                                   ##
 ##   Created by Jesus David Coral                                    ##
@@ -12,10 +13,10 @@
 #                                                                     #
 # Modify pins according to motor coils- current conection to the Digitals pinds D2,D3, D4, D5
 # Adjust the Time Delay to increase or decrease the engine speed
-
+*/
 #define in_A_1 2
-#define in_A_2 3
-#define in_B_1 4
+#define in_A_2 4
+#define in_B_1 3
 #define in_B_2 5
 
 int currentStep = 0;
