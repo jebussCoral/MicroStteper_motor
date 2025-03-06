@@ -2,7 +2,7 @@
 #######################################################################
 ##                                                                   ##
 ##   Created by Jesus David Coral                                    ##
-##   Version: 3.0_05_02_2025                                         ##
+##   Version: 3.1_06_03_2025                                         ##
 ##                                                                   ##
 ##   Program to drive stepper motors, 2 coils from 3.3 to 5 V        ##
 ##   without driver                                                  ##
