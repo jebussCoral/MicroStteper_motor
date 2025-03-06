@@ -12,8 +12,8 @@
 #                                                                     #
 
 #define in_A_1 2
-#define in_A_2 3
-#define in_B_1 4
+#define in_A_2 4
+#define in_B_1 3
 #define in_B_2 5
 
 int currentStep = 0;
